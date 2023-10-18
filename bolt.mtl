@@ -1,0 +1,46 @@
+# Blender MTL File: 'bolt 2jj.blend'
+# Material Count: 4
+
+newmtl Tex_0000_0.dds
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Positivo\\Pictures\\files (2)\\aqelj-8gh1r (2).png
+
+newmtl Tex_0004_0.dds.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Positivo\\Pictures\\files (2)\\Tex_0004_0 (2).png
+
+newmtl Tex_0010_0.dds
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Positivo\\Pictures\\files (2)\\Tex_0010_0 (2).png
+
+newmtl Tex_0012_0.dds
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Positivo\\Pictures\\Nova pasta\\Tex_0009_0 (2).jpg
